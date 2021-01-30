@@ -19,8 +19,6 @@ Tic-tac-toe, or Xs and Os is a game for two players, X and O, who take turns mar
 * Java as development programming language.
 * Android Studio as development environment. 
 
-`
 
 
 
-# Tic-Tac-Toe-Android-game
